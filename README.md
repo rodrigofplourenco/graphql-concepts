@@ -4,19 +4,19 @@
 
 <p>Dont forget to install the dependencies, run:</p> 
 <code>yarn</code>
-<p>OR
+<p>OR</p>
 <code>npm install</code>
 
 <hr>
 
 <p>To execute simple-server (schema-first approach) run:</p> 
 <code>yarn dev:simple</code>
-<p>OR
+<p>OR</p>
 <code>npm run dev:simple</code>
 
 <hr>
 
 <p>To execute server (code-first approach) run:</p> 
 <code>yarn dev</code>
-<p>OR
+<p>OR</p>
 <code>npm run dev</code>
